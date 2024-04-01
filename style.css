@@ -1,0 +1,20 @@
+th{
+    color: red;
+    border: 2px dotted blue;
+}
+td{
+    color: green;
+    border: 2px solid black;
+}
+  .Heythere{
+    color: maroon;
+    border: 2px dotted burlywood;
+    width: 25%;
+    background-color: bisque;
+    margin-right: 100px;
+    padding-left: 150px;
+    /*float:center;*/
+}
+#heading4{
+    color: black;
+}
